@@ -5,4 +5,4 @@
 - 🥅 2022 Goals: Become a Kaggle master ✨
 - ⚡ Fun fact: I like mythology and Chinese magic
 
-![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0ce38a2b&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ce38a2b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
