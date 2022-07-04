@@ -2,7 +2,7 @@
 <section>
     <h2>Hi there, I'm HuaYi !</h2>
     <details>
-      <summary>🌱Current studying subjects</summary>construction of a modern computer,VLSI(超大规模集成电路),scientific computing
+      <summary>🌱Current studying subjects</summary>construction of a modern computer, VLSI, scientific computing
     </details>
  </section>
  
