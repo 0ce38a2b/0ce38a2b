@@ -19,7 +19,7 @@
  </section>
  
  
- | <a href="https://github.com/0ce38a2b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0ce38a2b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HuaYi's github stats" /></a> | <a href="https://github.com/0ce38a2b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ce38a2b&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=0ce38a2b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HuaYi's github stats" /></a> | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ce38a2b&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
 <!-- 
