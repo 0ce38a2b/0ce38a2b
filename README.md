@@ -2,19 +2,19 @@
 <section>
     <h2>Hi there, I'm HuaYi !</h2>
     <details>
-      <summary>🌱Current studying subjects</summary>construction of a modern computer, VLSI, scientific computing
+      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theorys and Analysis; Mathematical Optimization; Underacturated Robotics
     </details>
  </section>
  
  <section>
     <details>
-      <summary>🔭 Current working projects</summary>D2NN
+      <summary>🔭 Current working projects</summary> null
     </details>
  </section>
  
 <section>
     <details>
-      <summary>🥅 2022 Goals</summary>Become a Kaggle master ✨
+      <summary>🥅 2023 Goals</summary>Become a Kaggle master ✨
     </details>
  </section>
  
