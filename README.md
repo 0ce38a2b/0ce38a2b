@@ -2,19 +2,19 @@
 <section>
     <h2>Hi there, I'm HuaYi !</h2>
     <details>
-      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theorys and Analysis; Mathematical Optimization; Underacturated Robotics
+      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theorys and Analysis; Mathematical Optimization; Underactuated Robotics
     </details>
  </section>
  
  <section>
     <details>
-      <summary>🔭 Current working projects</summary> null
+      <summary>🔭 Current working projects</summary> Neural Lyapunov Function
     </details>
  </section>
  
 <section>
     <details>
-      <summary>🥅 2023 Goals</summary>Become a Kaggle master ✨
+      <summary>🥅 2024 Goals</summary>Become a Kaggle master ✨
     </details>
  </section>
  
