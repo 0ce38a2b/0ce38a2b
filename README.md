@@ -1,16 +1,13 @@
 <body>
 <section>
     <h2>Hi there, I'm HuaYi !</h2>
-      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theorys and Analysis; Mathematical Optimization; Underactuated Robotics
+      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theory and Analysis; Mathematical Optimization; Underactuated Robotics
  </section>
  
  <section>
       <summary>🔭 Current working projects</summary> Neural Lyapunov Function
  </section>
- 
-<section>
-      <summary>🥅 2024 Goals</summary>Become a Kaggle master ✨
- </section>
+
  
  
  | <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=0ce38a2b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HuaYi's github stats" /></a> | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ce38a2b&layout=compact&theme=buefy&hide_border=true" /></a> |
