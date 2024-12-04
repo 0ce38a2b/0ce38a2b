@@ -1,7 +1,7 @@
 <body>
 <section>
     <h2>Hi there, I'm HuaYi !</h2>
-      <summary>🌱Current studying subjects</summary> Linear & Non-linear System Theory and Analysis; Mathematical Optimization; Underactuated Robotics
+      <summary>🌱Current studying subjects</summary> Non-linear System Theory and Analysis; Mathematical Optimization
  </section>
  
  <section>
